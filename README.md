@@ -1,4 +1,4 @@
-#Josué Arteaga
+# Josué Arteaga
 
 Estudiante de Ingeniería en Inteligencia Artificial (6º semestre)  
 Data Analyst Jr | IA aplicada a administración y finanzas  
