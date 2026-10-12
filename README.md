@@ -1,48 +1,41 @@
-# Josué Arteaga
+# Hola, soy Choch 🦍
 
-Estudiante de Ingeniería en Inteligencia Artificial (6º semestre)  
-Data Analyst Jr | IA aplicada a administración y finanzas  
+Me gusta jugar, aprender cosas nuevas y ver qué puedo construir con una idea.
+Estudio Inteligencia Artificial y aquí comparto proyectos con datos, automatización y desarrollo web.
 
-Soy estudiante de ingeniería con interés en el análisis de datos, machine learning y automatización de procesos administrativos. Cuento con experiencia en áreas contables y administrativas, donde he trabajado con sistemas ERP y control financiero, buscando siempre aplicar soluciones basadas en datos.
+## 🛠️ Mi stack
 
----
+### 🐍 Backend
 
-## Intereses profesionales
-- Análisis de datos y visualización
-- Machine Learning aplicado a negocio
-- Automatización de procesos administrativos
-- Inteligencia Artificial aplicada a finanzas y toma de decisiones
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
----
+### 🧠 Datos e IA
 
-## Tecnologías y herramientas
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
 
-**Lenguajes y análisis**
-- Python
-- Análisis de datos
-- Machine Learning
-- Procesamiento de Lenguaje Natural (NLP)
+### 🎨 Frontend
 
-**Herramientas**
-- Microsoft Excel / Office
-- Contpaqi
-- Aspel-COI
-- Git & GitHub
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+### 🔧 Herramientas
 
-## Experiencia aplicada
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Experiencia en entornos administrativos y contables trabajando con ERP (Contpaqi, Aspel-COI), manejo de datos financieros y control de información para toma de decisiones, con interés en automatizar y analizar estos procesos mediante Python y Machine Learning.
+## 💡 Cosas que he estado construyendo
 
----
-
-## Proyectos
-Actualmente trabajando en proyectos académicos y personales enfocados en:
-- Análisis de datos con Python  
-- Automatización de procesos  
-- Aplicaciones básicas de Machine Learning  
-
+- **Metricus** — predicciones de fútbol, datos y una aplicación web.
+- **Agenda** — integración de WhatsApp, Google Calendar e IA para crear citas a partir de mensajes.
 
 
 ---
